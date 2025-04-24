@@ -1,6 +1,6 @@
 # Selenium Web Automation
 
-A simple Python script using Selenium WebDriver to automate web browsing tasks.
+A Python script using Selenium WebDriver to automate web browsing tasks.
 
 ## Features
 
